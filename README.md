@@ -16,7 +16,7 @@ For this project, our client was interested in creating a website that used UFO 
 The clients website is very easy intuitive and easy to use.  
 1. Initially the website will populate with all of the data from the UFO sightings database. 
 2. To filter, the user clicked into a filter box, and types in the desired filter.
-  - Dates are X/X/XXXX
+  - Dates are X/XX/XXXX (d/mm/yyyy)
   - City is the full name of a city ex: "bonita", "benton", "new york".
   - State is the two letter state abbrevaition
   - Country is he two letter country abbreviation
