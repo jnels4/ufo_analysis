@@ -21,17 +21,18 @@ The clients website is very easy intuitive and easy to use.
   - State is the two letter state abbrevaition
   - Country is he two letter country abbreviation
   - Shape is: Light, triangle, circle, fireball, formation, spehre, disk, chevron, rectagle, other or unknown.
-  - 
+  
 <img width="225" alt="Screen Shot 2022-07-02 at 12 41 52 PM" src="https://user-images.githubusercontent.com/6634774/177009062-6c713aa7-8958-4f8e-b6c2-d094bfadcc5d.png">
 
 3. Once the user selects a desired filter (city: benton) in this case. The user can either press enter or click off the box to filter the UFO data. The user can repeat this process for any given filter they want to choose.
 
 <img width="225" alt="Screen Shot 2022-07-02 at 12 42 31 PM" src="https://user-images.githubusercontent.com/6634774/177009095-ca8e8a7f-96b0-49e9-a74b-8a59f1e2ed8c.png">
 
+<img width="878" alt="Screen Shot 2022-07-02 at 12 48 58 PM" src="https://user-images.githubusercontent.com/6634774/177009288-85f71d7b-081a-4a15-8098-9a37e827c5ee.png">
 
 ## Limitations
 
-While this website is very good, easy to use and intuitive there are a few drawbacks:
+While this website is very good, easy to use and intuitive; however, there are a few drawbacks:
 1. The user can only have 2 filters at a given time.
 2. There is no way to select more than 1 filter at once, to get two filters, the user must filter the data twice.
 3. The user does not know what the options for "shape", "states", "cities", "country" or the "date range" are.  Making this clear will yield a better user experience.
